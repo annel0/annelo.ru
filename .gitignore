@@ -1,0 +1,10 @@
+preview/
+versions/
+__pycache__/
+.venv/
+node_modules/
+.env
+.env.*
+!.env.example
+qa.py
+art-parts.json
